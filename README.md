@@ -77,21 +77,6 @@ Soy un **Desarrollador Fullstack** apasionado por crear soluciones tecnológicas
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
 </div>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisVeraVR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVeraVR&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisVeraVR&theme=tokyonight" alt="LuisVeraVR" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LuisVeraVR&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</div>
-
 ## 💼 Experiencia Profesional
 
 ### 🏢 Kalez S.A - Desarrollador Web
