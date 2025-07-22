@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Luis Alberto Vera Rojas
+# 👋 ¡Hola! Soy Luis Vera
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Ingeniero+de+Software;Especialista+en+Angular+%26+Laravel;Creador+de+Soluciones+Innovadoras" alt="Typing SVG" />
@@ -19,9 +19,6 @@ Soy un **Desarrollador Fullstack** apasionado por crear soluciones tecnológicas
 - 🌱 **Aprendiendo:** Arquitecturas de microservicios y tecnologías cloud
 - ⚡ **Dato curioso:** Me apasiona el baile social y la lectura de temas de tecnología y física
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
-</div>
 
 ## 🛠️ Stack Tecnológico
 
@@ -43,10 +40,11 @@ Soy un **Desarrollador Fullstack** apasionado por crear soluciones tecnológicas
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 </div>
