@@ -1,133 +1,135 @@
-# 👋 ¡Hola! Soy Luis Vera
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Desarrollador+Fullstack;Ingeniero+de+Software;Especialista+en+Angular+%26+Laravel;Creador+de+Soluciones+Innovadoras" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 🚀 Sobre Mí
-
-Soy un **Desarrollador Fullstack** apasionado por crear soluciones tecnológicas innovadoras que optimizan procesos empresariales y mejoran la experiencia del usuario. Con sólida experiencia en el diseño, desarrollo e implementación de aplicaciones web escalables y robustas.
-
-- 🌍 **Ubicación:** Cali, Valle del Cauca, Colombia
-- 💼 **Posición actual:** Desarrollador Web en Kalez S.A
-- 🎓 **Formación:** Tecnología en Desarrollo de Software
-- 🔭 **Trabajando en:** Sistema de monitoreo avanzado con metodologías ágiles
-- 🌱 **Aprendiendo:** Arquitecturas de microservicios y tecnologías cloud
-- ⚡ **Dato curioso:** Me apasiona el baile social y la lectura de temas de tecnología y física
-
-
-## 🛠️ Stack Tecnológico
-
-### 🎨 Frontend
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PrimeNG](https://img.shields.io/badge/PrimeNG-007ACC?style=for-the-badge&logo=primeng&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-### ⚙️ Backend
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-</div>
-
-### 🗄️ Bases de Datos
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Eloquent](https://img.shields.io/badge/Eloquent-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-</div>
-
-### 🔧 Herramientas y Metodologías
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=kanban&logoColor=white)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A1A,100:C8A96E&height=200&section=header&text=Luis%20Vera&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Automation%20Specialist&descSize=18&descAlignY=55&descColor=C8A96E)
 
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500">
+  <a href="https://luisveravr.com">
+    <img src="https://img.shields.io/badge/Portfolio-luisveravr.com-C8A96E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/luisveravr">
+    <img src="https://img.shields.io/badge/LinkedIn-luisveravr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luisveravr.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-luisveravr.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
-## 💼 Experiencia Profesional
+<br>
 
-### 🏢 Kalez S.A - Desarrollador Web
-**📅 Agosto 2023 - Presente**
-- Desarrollo y mantenimiento de plataforma backoffice integral
-- Implementación de interfaces modernas con Angular, PrimeNG y PrimeFlex
-- Desarrollo de lógica de negocio robusta con PHP y Laravel
-- Optimización de gestión de datos con Eloquent y SQL
+```
+ ╔══════════════════════════════════════════════════════════════╗
+ ║  > Cali, Colombia                                          ║
+ ║  > Full-Stack Developer & Automation Specialist             ║
+ ║  > Building scalable web apps & intelligent automations     ║
+ ╚══════════════════════════════════════════════════════════════╝
+```
 
-### 🏢 Instituto Técnico Colombiano - Técnico de Sistemas
-**📅 Agosto 2022 - Agosto 2023**
-- Desarrollo de scripts de automatización con PowerShell y Python
-- Implementación y mantenimiento de bases de datos SQL
-- Actualización de aplicaciones web en PHP
-- Documentación técnica y configuración de entornos de desarrollo
+## `// about`
+
+Desarrollador Full-Stack con experiencia construyendo aplicaciones web completas — desde interfaces interactivas hasta sistemas backend robustos y pipelines de automatización. Actualmente en **CORREAGRO S.A.** dentro del área de Sistemas/Business Intelligence, donde diseño soluciones de análisis de datos, procesamiento de facturación electrónica y automatización de procesos operativos en el ecosistema de la Bolsa Mercantil de Colombia.
+
+Paralelamente, desarrollo proyectos freelance a través de [luisveravr.com](https://luisveravr.com), abarcando desde bots con IA y CRM hasta sistemas web a medida.
+
+## `// tech_stack`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-0F0F11?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F0F11?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F0F11?style=flat-square&logo=typescript&logoColor=3178C6)
+![Three.js](https://img.shields.io/badge/Three.js-0F0F11?style=flat-square&logo=three.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-0F0F11?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+
+</td>
+<td valign="top" width="33%">
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-0F0F11?style=flat-square&logo=python&logoColor=3776AB)
+![Laravel](https://img.shields.io/badge/Laravel-0F0F11?style=flat-square&logo=laravel&logoColor=FF2D20)
+![Flask](https://img.shields.io/badge/Flask-0F0F11?style=flat-square&logo=flask&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-0F0F11?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Node.js](https://img.shields.io/badge/Node.js-0F0F11?style=flat-square&logo=node.js&logoColor=5FA04E)
+
+</td>
+<td valign="top" width="33%">
+
+**Data & DevOps**
+
+![MySQL](https://img.shields.io/badge/MySQL-0F0F11?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F0F11?style=flat-square&logo=mongodb&logoColor=47A248)
+![Supabase](https://img.shields.io/badge/Supabase-0F0F11?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Docker](https://img.shields.io/badge/Docker-0F0F11?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-0F0F11?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![n8n](https://img.shields.io/badge/n8n-0F0F11?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+</td>
+</tr>
+</table>
+
+## `// current_work`
+
+```python
+class LuisVera:
+    role      = "Full-Stack Developer & BI Analyst"
+    company   = "CORREAGRO S.A."
+    location  = "Cali, Colombia"
+    website   = "https://luisveravr.com"
+    
+    stack = {
+        "frontend":    ["Angular", "React", "Next.js", "TypeScript"],
+        "backend":     ["Python", "Laravel", "Flask", "NestJS"],
+        "data":        ["MySQL", "MongoDB", "Supabase", "Pinecone"],
+        "automation":  ["n8n", "Microsoft Graph API", "SIESA ERP"],
+        "cloud":       ["AWS", "Docker", "Railway"],
+    }
+    
+    currently = [
+        "Building invoice processing & credit note reconciliation systems",
+        "Developing AI-powered chatbots with LLMs + vector databases",
+        "Creating financial dashboards & BI automation tools",
+        "Freelancing: web apps, WhatsApp bots, CRM integrations",
+    ]
+```
+
+## `// projects`
+
+| Proyecto | Descripción | Stack |
+|:---------|:------------|:------|
+| **Backoffice Correagro** | Sistema backoffice integral para gestión operativa dentro de la Bolsa Mercantil de Colombia | `Angular` `Laravel` `Flask` `MySQL` |
+| **Dashboard Financiero** | Dashboard de análisis financiero con visualización de KPIs y métricas de negocio | `Next.js` `NestJS` `Flask` `MySQL` |
+| **Invoice Processor** | Sistema automatizado de procesamiento de facturación electrónica UBL 2.1 con Microsoft Graph API | `Python` `Flask` `pdfplumber` `MySQL` |
+| **VitaBot** | Chatbot médico de triage con IA para proyecto de tesis universitaria | `NestJS` `Next.js` `n8n` `Gemini` `Supabase` |
+| **GymKey** | Plataforma de gestión para gimnasios con app móvil y panel admin web | `NestJS` `Next.js` `React Native` |
+
+## `// stats`
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LuisVeraVR&show_icons=true&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=C8A96E&icon_color=C8A96E&text_color=DEDEDE&ring_color=C8A96E" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisVeraVR&layout=compact&theme=github_dark&hide_border=true&bg_color=0A0A0A&title_color=C8A96E&text_color=DEDEDE" />
 </div>
 
-## 🌟 Proyectos Destacados
-
-### 🔍 Sistema de Monitoreo Avanzado
-- **Tecnologías:** Angular, TDD, Arquitecturas escalables
-- **Metodologías:** Metodologías ágiles, Scrum, Kanban
-- **Características:** Producto robusto, seguro y altamente adaptable
-
-
-## 📫 Conecta Conmigo
+<br>
 
 <div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisveravr.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisveravr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisVeraVR)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573233653285)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
-</div>
-
-## 🎨 Filosofía de Desarrollo
-
-> *"Considero que cada fragmento de código es un portal para redefinir cómo los usuarios interactúan en línea y, sobre todo, para transformar conceptos en vivencias únicas."*
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Gracias%20por%20visitar%20mi%20perfil!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisVeraVR&theme=github-dark-blue&hide_border=true&background=0A0A0A&stroke=1A1A1A&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E&sideLabels=C8A96E&dates=555555" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuisVeraVR&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="LuisVeraVR" />
+  <img src="https://komarev.com/ghpvc/?username=LuisVeraVR&label=Profile%20Views&color=C8A96E&style=flat-square" />
+</div>
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C8A96E,50:1A1A1A,100:0A0A0A&height=100&section=footer)
+
 </div>
